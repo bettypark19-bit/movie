@@ -1,0 +1,46 @@
+# Python (movie-back)
+movie-back/.venv/
+movie-back/__pycache__/
+movie-back/*.py[cod]
+movie-back/.env
+
+# Node.js / React (movie-front)
+movie-front/node_modules/
+movie-front/dist/
+movie-front/dist-ssr/
+movie-front/build/
+movie-front/coverage/
+movie-front/.eslintcache
+movie-front/.stylelintcache
+
+# Logs
+movie-front/npm-debug.log*
+movie-front/yarn-debug.log*
+movie-front/yarn-error.log*
+movie-front/pnpm-debug.log*
+movie-front/lerna-debug.log*
+
+# Environment variables
+movie-front/.env
+movie-front/.env.local
+movie-front/.env.development.local
+movie-front/.env.test.local
+movie-front/.env.production.local
+movie-front/*.local
+
+# Vitest / Jest
+movie-front/__snapshots__/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*/.env
+*/.env/local
+*/text.txt
